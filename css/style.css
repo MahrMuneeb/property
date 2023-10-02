@@ -60,3 +60,72 @@ li a {
   margin-right: 70px;
     margin-top: 20px;
 }
+.back-image{
+  text-align: center;
+}
+.back-image p{
+  margin-top: 20px;
+}
+.bg{
+  background: url(../image/room-2269594_1280.jpg);
+  height: 499px;
+  
+}
+.text h1{
+  padding-top: 160px;
+}
+
+.text{
+  text-align: center;
+}
+.text h4{
+  display:contents;
+}
+.text p{
+margin-top: 45px;
+color: white;
+}
+.text button{
+  margin-top: 40px;
+  padding: 10px 20px;
+  background: #222E68;
+  color: white;
+  margin-right: 20px;
+  border: none;
+}
+.owner{
+  display: flex;
+  margin-top: 10px;
+}
+.owner-pic img{
+  height: 325px;
+  margin-left: 20px;
+}
+.department h5{
+  margin-top: 10px;
+}
+.department p{
+  margin-top: 8px;
+}
+.house{
+  flex-basis: 20%;
+  margin-left:20px;
+} 
+.bank{
+  display: flex;
+  margin-top: 20px;
+}
+.para-1{
+  margin-left: 10px;
+}
+.para-1 p{
+  margin-top: 10px;
+}
+.btton button{
+  margin-top: 15px;
+    padding: 10px;
+    background: #222E68;
+    color: white;
+    border: none;
+}
+
