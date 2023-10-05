@@ -37,11 +37,11 @@ ul {
   
 }
 
-li {
+.navbar li {
   float: left;
 }
 
-li a {
+.navbar li a {
   display: block;
   color: black;
   text-align: center;
@@ -92,10 +92,13 @@ color: white;
   color: white;
   margin-right: 20px;
   border: none;
+  cursor: pointer;
 }
 .owner{
   display: flex;
-  margin-top: 10px;
+  justify-content: center;
+  margin-top: 50px;
+
 }
 .owner-pic img{
   height: 325px;
@@ -127,5 +130,19 @@ color: white;
     background: #222E68;
     color: white;
     border: none;
+    cursor: pointer;
 }
-
+.main-1{
+  display: flex;
+  justify-content: space-between;
+}
+.founder{
+  display: flex;
+}
+.contact{
+  text-align: center;
+}
+.stratergy{
+  display: flex;
+  justify-content: space-around;
+}
