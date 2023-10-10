@@ -29,7 +29,7 @@
   display: flex;
   justify-content: space-between;
 }
-ul {
+.navbar ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -145,4 +145,28 @@ color: white;
 .stratergy{
   display: flex;
   justify-content: space-around;
+  margin-top: 20px;
+}
+.first h4{
+  margin-left: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.first ul{
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.two-cards{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.card h4{
+  margin-left: 20px;
+  margin-top: 20px;
+  font-weight: bold;
+}
+.card ul{
+  margin-left: 50px;
+  margin-top: 20px;
 }
