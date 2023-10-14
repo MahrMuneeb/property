@@ -159,7 +159,7 @@ color: white;
 .two-cards{
   display: flex;
   justify-content: space-evenly;
-  margin-top: 20px;
+  margin-top: 60px;
 }
 .card h4{
   margin-left: 20px;
@@ -169,4 +169,109 @@ color: white;
 .card ul{
   margin-left: 50px;
   margin-top: 20px;
+}
+.comma{
+  display: flex;
+  margin-top: 70px;
+  background: lightgrey;
+  justify-content: space-around;
+  padding: 20px;
+}
+.coma{
+  width: 400px;
+}
+.coma h4{
+  margin-top: 10px;
+}
+.coma h2{
+  margin-top: 10px;
+}
+.coma p{
+  margin-top: 10px;
+}
+.coma button{
+  margin-top: 10px;
+  padding: 10px 20px;
+  background: darkblue;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.comma-end{
+  margin-top: 40px;
+  background: white;
+  width: 350px;
+  padding: 10px;
+  position: relative;
+}
+.name{
+  display: flex; 
+}
+.top{
+ 
+  position: absolute;
+    top: 0px;
+    
+    right: -18px;
+}
+.least{
+  background: white;
+  margin-top: 40px;
+  width: 400px;
+  padding: 10px;
+}
+.backg{
+  background-image: url(../image/mid-area-image/sofa-iamge.jpg);
+  height: 600px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.back{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 100px;
+}
+.sofa{
+  color: white;
+}
+.twelve{
+  display: flex;
+    background: white;
+    height: 50px;
+    text-align: center;
+    padding: 10px 40px;
+    color: darkblue;
+    border-radius: 10px;
+}
+.twelve h4{
+  margin-left: 10px;
+  color: black;
+}
+.blog{
+  margin-top: 70px;
+  text-align: center;
+}
+.blog h2{
+  color: darkblue;
+}
+.last-part{
+  display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.home p{
+  margin-top: 10px;
+}
+.home h4{
+  margin-top: 10px;
+}
+.home button{
+  padding: 10px 20px;
+  border-radius: 5px;
+  background-color: darkblue;
+  cursor: pointer;
+  color: white;
+  border: none;
+  margin-top: 10px;
 }
